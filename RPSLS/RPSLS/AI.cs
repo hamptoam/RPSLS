@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RPSLS
 {
-    class AI : Player 
+    class AI : Player
     {
         //member variables
 
@@ -14,36 +14,26 @@ namespace RPSLS
 
         //constructor 
 
-        public AI(string name) : base (name)
+        public AI(string name) : base(name)
         {
-            this.name = name; 
+            this.name = name;
         }
 
 
         //methods
 
 
-        List<string> actions = new List<string>();
-
-        public void initializeActions()
-        {
-            actions.Add("Rock");
-            actions.Add("Paper");
-            actions.Add("Scissors");
-            actions.Add("Lizard");
-            actions.Add("Spock");
-        }
+        List<string> actions = new List<string>()
+        { "Rock", "Paper", "Scissors", "Lizard", "Spock" };
 
         public override string ChooseMove()
-            
+
         {
             Random Rand = new Random();
-            int RandomNumber = Rand.Next(0, 5);
+            int RandomNumber = Rand.Next(0, 4);
 
 
             return actions[RandomNumber];
-
         }
-
     }
-}
+} 
