@@ -1,0 +1,7 @@
+C:\Users\ameli\OneDrive\Documents\DevCode Camp\RPSLS\RPSLS\bin\Debug\RPSLS.exe.config
+C:\Users\ameli\OneDrive\Documents\DevCode Camp\RPSLS\RPSLS\bin\Debug\RPSLS.exe
+C:\Users\ameli\OneDrive\Documents\DevCode Camp\RPSLS\RPSLS\bin\Debug\RPSLS.pdb
+C:\Users\ameli\OneDrive\Documents\DevCode Camp\RPSLS\RPSLS\obj\Debug\RPSLS.csprojAssemblyReference.cache
+C:\Users\ameli\OneDrive\Documents\DevCode Camp\RPSLS\RPSLS\obj\Debug\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\ameli\OneDrive\Documents\DevCode Camp\RPSLS\RPSLS\obj\Debug\RPSLS.exe
+C:\Users\ameli\OneDrive\Documents\DevCode Camp\RPSLS\RPSLS\obj\Debug\RPSLS.pdb
